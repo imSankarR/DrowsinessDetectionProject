@@ -77,7 +77,7 @@ This project is also featured in the **Journal of Foundational Research**:
 **Sankar R**  
 Email: [imsankar.rs@gmail.com](mailto:imsankar.rs@gmail.com)  
 GitHub: [Sankar R](https://github.com/imSankarR)  
-LinkedIn: [Sankar R](https://www.linkedin.com/in/sankarrstv)  
-Website: [sankarrstv.com](https://sankarrstv.github.io/Sankar-R-Portfolio/)  
+LinkedIn: [Sankar R](https://www.linkedin.com/in/imsankarr)  
+Website: [imsankarr.com](https://imsankarr.github.io/Sankar-R-Portfolio/)  
 
 ---  
